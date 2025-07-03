@@ -18,3 +18,13 @@ Results for Sub 1:
 
 # Supplementary information:
 https://arxiv.org/abs/2403.06361
+# Citation
+@inproceedings{liu2025see,
+  title={See Through Their Minds: Learning Transferable Brain Decoding Models from Cross-Subject fMRI},
+  author={Liu, Yulong and Ma, Yongqiang and Zhu, Guibo and Jing, Haodong and Zheng, Nanning},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={6},
+  pages={5730--5738},
+  year={2025}
+}
