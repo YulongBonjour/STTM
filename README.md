@@ -1,7 +1,7 @@
 # See_Through_Their_Minds
 See Through Their Minds: Learning Transferable Brain Decoding Models from Cross-subject fMRI
 
-This paper has been accepted by AAAI 2025. Codes will be released soon.
+This paper has been accepted by AAAI 2025.  
 
 Results for Sub 1:
   https://drive.google.com/file/d/1nSMokrUtgbChQaynolTEDLeeOG4GUo3h/view?usp=sharing
