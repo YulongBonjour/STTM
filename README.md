@@ -7,5 +7,10 @@ Results for Sub 1:
   https://drive.google.com/file/d/1nSMokrUtgbChQaynolTEDLeeOG4GUo3h/view?usp=sharing
   https://drive.google.com/file/d/1Jk6QPYF-YvguegFMOcizz5UkaliatjtY/view?usp=sharing
 
+# Training/Testing DATA
+    https://huggingface.co/datasets/yulong99/NSD-CLIP-SD-Latents/
+    
+
+
 # Supplementary information:
 https://arxiv.org/abs/2403.06361
