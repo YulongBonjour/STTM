@@ -8,7 +8,9 @@ Results for Sub 1:
   https://drive.google.com/file/d/1Jk6QPYF-YvguegFMOcizz5UkaliatjtY/view?usp=sharing
 
 # Training/Testing DATA
+  We provide the processed training/tesing data for all subjects at:
     https://huggingface.co/datasets/yulong99/NSD-CLIP-SD-Latents/
+  only subject 1,2,5,7  were involved in this work.
     
 
 
