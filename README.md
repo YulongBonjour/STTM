@@ -17,7 +17,7 @@ Results for Sub 1:
 
   # Downloading the raw data
   
-    Please refer to  [Brain-diffuser](https://github.com/ozcelikfu/brain-diffuser)
+    Please refer to  Brain-diffuser:  https://github.com/ozcelikfu/brain-diffuser
     
 
 
