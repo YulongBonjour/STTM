@@ -16,7 +16,8 @@ Results for Sub 1:
 
 
   # Downloading the raw data
-    Please refer to (Brain-diffuser)[https://github.com/ozcelikfu/brain-diffuser/blob/main/data/download_nsddata.py]
+  
+    Please refer to  [Brain-diffuser](https://github.com/ozcelikfu/brain-diffuser/blob/main/data/download_nsddata.py)
     
 
 
