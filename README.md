@@ -13,6 +13,10 @@ Results for Sub 1:
   
   
   Only subject 1,2,5,7  were involved in this work.
+
+
+  # Downloading the raw data
+    Please refer to [Brain-diffuser](https://github.com/ozcelikfu/brain-diffuser/blob/main/data/download_nsddata.py)
     
 
 
